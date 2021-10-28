@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @ramzanaf
+- 👋 Hi, I’m @ramzanafridi
 - 👀 I’m interested in working using javascript and Angular.
 - 🌱 I’m currently learning new technologies.
 - 💞️ I’m looking to collaborate on ...
